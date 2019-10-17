@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.my-button{
+  background-color: #333;
+  border-color: #09d3ac;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 12pt;
+  margin-left: 20px;
+}
+
+img.pokemon-image{
+  margin-top: 20px;
+  width: 150px;
+  height: 150px;
+}
+
+.input-box{
+  height: 20px;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 14px;
+}
